@@ -35,7 +35,7 @@ Open a new Terminal window and run the following commands (assuming the program 
 
 ```bash
 cd ~/Desktop/soberselector
-python3 soberselector
+python3 selector.py
 ```
 
 The program will then launch and ask you to select the appropriate menu option.
